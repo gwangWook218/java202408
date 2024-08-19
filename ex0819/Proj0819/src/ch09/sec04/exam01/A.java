@@ -13,9 +13,9 @@ public class A {
 //	메소드
 	void method() {
 //		로컬 클래스 선언
-		class B() {}
+//		class B() {}
 		
 //		로컬 객체 생성
-		B b = new B();
+//		B b = new B();
 	}
 }

@@ -1,12 +1,9 @@
 package my.pkg1;
 
-import my.pkg.Override;
-import my.pkg.String;
-
 public class Mypet2 implements SecondInter {
 //	필드 선언
 	private String name;
-	private String kind;
+	String kind;
 	private boolean mine;
 	
 //	메소드 오버라이딩

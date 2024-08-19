@@ -3,7 +3,7 @@ package my.pkg;
 public class Mypet1 implements FirstInter, SecondInter {
 //	필드 선언
 	private String name;
-	private String kind;
+	String kind;
 	private boolean mine;
 	
 //	메소드 오버라이딩
